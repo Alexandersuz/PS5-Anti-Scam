@@ -1,7 +1,7 @@
 # PS5-Anti-Scam Filter List
 # Blocking Scam
 #
-# Homepage: https://github.com/Alexandersuz/PS5-Anti-Scam
+# Homepage: https://github.com/Alexandersuz/PS5-Anti-Scam/
 # Contribute: https://github.com/Alexandersuz/PS5-Anti-Scam/issues
 # Changelog: https://github.com/Alexandersuz/PS5-Anti-Scam/commits/master/hosts.txt
 # License: https://mit-license.org/
