@@ -1,0 +1,58 @@
+# PS5-Anti-Scam Filter List
+# Blocking Scam
+#
+# Homepage: https://github.com/Alexandersuz/PS5-Anti-Scam
+# Contribute: https://github.com/Alexandersuz/PS5-Anti-Scam/issues
+# Changelog: https://github.com/Alexandersuz/PS5-Anti-Scam/commits/master/hosts.txt
+# License: https://mit-license.org/
+#
+# Last modified: 11 December 2021
+#
+
+0.0.0.0 m-playstation.store
+0.0.0.0 playstation-plus.store
+0.0.0.0 playstation5-sony.com
+0.0.0.0 p5store.ru
+0.0.0.0 firstishop.tilda.ws
+0.0.0.0 5bit.shop
+0.0.0.0 5bit.ru
+0.0.0.0 all-play.ru
+0.0.0.0 video.seatech.space
+0.0.0.0 etalon-store.com
+0.0.0.0 leveledmaster.ru
+0.0.0.0 people-like.ru
+0.0.0.0 adrenaline-24.ru
+0.0.0.0 rus-start.ru/
+0.0.0.0 jet-group.shop/products/sony-playstation-5
+0.0.0.0 playstation-5.eu
+0.0.0.0 war-and-peace.ru
+0.0.0.0 handtech.ru
+0.0.0.0 level-tools.com
+0.0.0.0 ps-official.ru
+0.0.0.0 unix-technik.com
+0.0.0.0 nextlevelrus.ru
+0.0.0.0 ru-store.shop
+0.0.0.0 viper-market.com
+0.0.0.0 xbox-outlet.shop
+0.0.0.0 city-tehno.ru
+0.0.0.0 display-eve.ru
+0.0.0.0 briksa.ru
+0.0.0.0 online-tech.store
+0.0.0.0 www.cleriapiscineshop.com
+0.0.0.0 gtest.ru
+0.0.0.0 mvideo.ru-order.online
+0.0.0.0 use-it-shop.ru
+0.0.0.0 signal-online.ru
+0.0.0.0 boomex.ru
+0.0.0.0 playstation-sale.online
+0.0.0.0 playstation-ru.online
+0.0.0.0 mvideo.ru-payservice.ru
+0.0.0.0 online-tech.store
+0.0.0.0 playstation-market.store
+0.0.0.0 playstation-online.shop
+0.0.0.0 ironarmonline.ru
+0.0.0.0 best-technik.com
+0.0.0.0 sony-retail.store
+0.0.0.0 finding-yourself.ru
+0.0.0.0 sonyshop.online
+0.0.0.0 techno-world.shop
