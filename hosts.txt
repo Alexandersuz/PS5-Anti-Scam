@@ -22,8 +22,8 @@
 0.0.0.0 leveledmaster.ru
 0.0.0.0 people-like.ru
 0.0.0.0 adrenaline-24.ru
-0.0.0.0 rus-start.ru/
-0.0.0.0 jet-group.shop/products/sony-playstation-5
+0.0.0.0 rus-start.ru
+0.0.0.0 jet-group.shop
 0.0.0.0 playstation-5.eu
 0.0.0.0 war-and-peace.ru
 0.0.0.0 handtech.ru
