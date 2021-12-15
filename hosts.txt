@@ -9,50 +9,52 @@
 # Last modified: 11 December 2021
 #
 
-0.0.0.0 m-playstation.store
-0.0.0.0 playstation-plus.store
-0.0.0.0 playstation5-sony.com
-0.0.0.0 p5store.ru
-0.0.0.0 firstishop.tilda.ws
-0.0.0.0 5bit.shop
-0.0.0.0 5bit.ru
-0.0.0.0 all-play.ru
-0.0.0.0 video.seatech.space
-0.0.0.0 etalon-store.com
-0.0.0.0 leveledmaster.ru
-0.0.0.0 people-like.ru
-0.0.0.0 adrenaline-24.ru
-0.0.0.0 rus-start.ru
-0.0.0.0 jet-group.shop
-0.0.0.0 playstation-5.eu
-0.0.0.0 war-and-peace.ru
-0.0.0.0 handtech.ru
-0.0.0.0 level-tools.com
-0.0.0.0 ps-official.ru
-0.0.0.0 unix-technik.com
-0.0.0.0 nextlevelrus.ru
-0.0.0.0 ru-store.shop
-0.0.0.0 viper-market.com
-0.0.0.0 xbox-outlet.shop
-0.0.0.0 city-tehno.ru
-0.0.0.0 display-eve.ru
-0.0.0.0 briksa.ru
-0.0.0.0 online-tech.store
-0.0.0.0 www.cleriapiscineshop.com
-0.0.0.0 gtest.ru
-0.0.0.0 mvideo.ru-order.online
-0.0.0.0 use-it-shop.ru
-0.0.0.0 signal-online.ru
-0.0.0.0 boomex.ru
-0.0.0.0 playstation-sale.online
-0.0.0.0 playstation-ru.online
-0.0.0.0 mvideo.ru-payservice.ru
-0.0.0.0 online-tech.store
-0.0.0.0 playstation-market.store
-0.0.0.0 playstation-online.shop
-0.0.0.0 ironarmonline.ru
-0.0.0.0 best-technik.com
-0.0.0.0 sony-retail.store
-0.0.0.0 finding-yourself.ru
-0.0.0.0 sonyshop.online
-0.0.0.0 techno-world.shop
+||m-playstation.store
+||playstation-plus.store
+||playstation5-sony.com
+||p5store.ru
+||firstishop.tilda.ws
+||5bit.shop
+||5bit.ru
+||all-play.ru
+||video.seatech.space
+||etalon-store.com
+||leveledmaster.ru
+||people-like.ru
+||adrenaline-24.ru
+||rus-start.ru
+||jet-group.shop
+||playstation-5.eu
+||war-and-peace.ru
+||handtech.ru
+||level-tools.com
+||ps-official.ru
+||unix-technik.com
+||nextlevelrus.ru
+||ru-store.shop
+||viper-market.com
+||xbox-outlet.shop
+||city-tehno.ru
+||display-eve.ru
+||briksa.ru
+||online-tech.store
+||www.cleriapiscineshop.com
+||gtest.ru
+||mvideo.ru-order.online
+||use-it-shop.ru
+||signal-online.ru
+||boomex.ru
+||playstation-sale.online
+||playstation-ru.online
+||mvideo.ru-payservice.ru
+||online-tech.store
+||playstation-market.store
+||playstation-online.shop
+||ironarmonline.ru
+||best-technik.com
+||sony-retail.store
+||finding-yourself.ru
+||sonyshop.online
+||techno-world.shop
+||gardena-market.store
+||playstation-shop.fun
