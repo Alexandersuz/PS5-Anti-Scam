@@ -6,7 +6,7 @@
 # Changelog: https://github.com/Alexandersuz/PS5-Anti-Scam/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 11 December 2021
+# Last modified: 15 December 2021
 #
 
 ||m-playstation.store
