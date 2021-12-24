@@ -6,55 +6,59 @@
 # Changelog: https://github.com/Alexandersuz/PS5-Anti-Scam/commits/master/hosts.txt
 # License: https://mit-license.org/
 #
-# Last modified: 15 December 2021
+# Last modified: 24 December 2021
 #
 
-||m-playstation.store
-||playstation-plus.store
-||playstation5-sony.com
-||p5store.ru
-||firstishop.tilda.ws
-||5bit.shop
-||5bit.ru
-||all-play.ru
-||video.seatech.space
-||etalon-store.com
-||leveledmaster.ru
-||people-like.ru
-||adrenaline-24.ru
-||rus-start.ru
-||jet-group.shop
-||playstation-5.eu
-||war-and-peace.ru
-||handtech.ru
-||level-tools.com
-||ps-official.ru
-||unix-technik.com
-||nextlevelrus.ru
-||ru-store.shop
-||viper-market.com
-||xbox-outlet.shop
-||city-tehno.ru
-||display-eve.ru
-||briksa.ru
-||online-tech.store
-||www.cleriapiscineshop.com
-||gtest.ru
-||mvideo.ru-order.online
-||use-it-shop.ru
-||signal-online.ru
-||boomex.ru
-||playstation-sale.online
-||playstation-ru.online
-||mvideo.ru-payservice.ru
-||online-tech.store
-||playstation-market.store
-||playstation-online.shop
-||ironarmonline.ru
-||best-technik.com
-||sony-retail.store
-||finding-yourself.ru
-||sonyshop.online
-||techno-world.shop
-||gardena-market.store
-||playstation-shop.fun
+127.0.0.1 m-playstation.store
+127.0.0.1 playstation-plus.store
+127.0.0.1 playstation5-sony.com
+127.0.0.1 p5store.ru
+127.0.0.1 firstishop.tilda.ws
+127.0.0.1 5bit.shop
+127.0.0.1 5bit.ru
+127.0.0.1 all-play.ru
+127.0.0.1 video.seatech.space
+127.0.0.1 etalon-store.com
+127.0.0.1 leveledmaster.ru
+127.0.0.1 people-like.ru
+127.0.0.1 adrenaline-24.ru
+127.0.0.1 rus-start.ru
+127.0.0.1 jet-group.shop
+127.0.0.1 playstation-5.eu
+127.0.0.1 war-and-peace.ru
+127.0.0.1 handtech.ru
+127.0.0.1 level-tools.com
+127.0.0.1 ps-official.ru
+127.0.0.1 unix-technik.com
+127.0.0.1 nextlevelrus.ru
+127.0.0.1 ru-store.shop
+127.0.0.1 viper-market.com
+127.0.0.1 xbox-outlet.shop
+127.0.0.1 city-tehno.ru
+127.0.0.1 display-eve.ru
+127.0.0.1 briksa.ru
+127.0.0.1 online-tech.store
+127.0.0.1 www.cleriapiscineshop.com
+127.0.0.1 gtest.ru
+127.0.0.1 mvideo.ru-order.online
+127.0.0.1 use-it-shop.ru
+127.0.0.1 signal-online.ru
+127.0.0.1 boomex.ru
+127.0.0.1 playstation-sale.online
+127.0.0.1 playstation-ru.online
+127.0.0.1 mvideo.ru-payservice.ru
+127.0.0.1 online-tech.store
+127.0.0.1 playstation-market.store
+127.0.0.1 playstation-online.shop
+127.0.0.1 ironarmonline.ru
+127.0.0.1 best-technik.com
+127.0.0.1 sony-retail.store
+127.0.0.1 finding-yourself.ru
+127.0.0.1 sonyshop.online
+127.0.0.1 techno-world.shop
+127.0.0.1 gardena-market.store
+127.0.0.1 playstation-shop.fun
+127.0.0.1 turn-on-24.ru
+127.0.0.1 my-smart39.ru
+127.0.0.1 tehnociti.ru
+127.0.0.1 expo-goods.com
